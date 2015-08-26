@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: c0b534f4d0291e342b977531623a0dd2
+timeCreated: 1440530205
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: coin01
+    100004: coin01_001
+    100006: coin01_002
+    100008: coin01_003
+    100010: coin01_004
+    100012: coin01_005
+    100014: coin01_006
+    100016: coin01_007
+    100018: coin01_008
+    100020: coin01_009
+    100022: coin01_010
+    100024: coin01_011
+    100026: coin01_012
+    100028: coin01_013
+    100030: Point
+    100032: Point_001
+    100034: Point_002
+    100036: Point_003
+    100038: //RootNode
+    100040: pursesimple
+    100042: Spot
+    400000: Camera
+    400002: coin01
+    400004: coin01_001
+    400006: coin01_002
+    400008: coin01_003
+    400010: coin01_004
+    400012: coin01_005
+    400014: coin01_006
+    400016: coin01_007
+    400018: coin01_008
+    400020: coin01_009
+    400022: coin01_010
+    400024: coin01_011
+    400026: coin01_012
+    400028: coin01_013
+    400030: Point
+    400032: Point_001
+    400034: Point_002
+    400036: Point_003
+    400038: //RootNode
+    400040: pursesimple
+    400042: Spot
+    2300000: coin01
+    2300002: coin01_001
+    2300004: coin01_002
+    2300006: coin01_003
+    2300008: coin01_004
+    2300010: coin01_005
+    2300012: coin01_006
+    2300014: coin01_007
+    2300016: coin01_008
+    2300018: coin01_009
+    2300020: coin01_010
+    2300022: coin01_011
+    2300024: coin01_012
+    2300026: coin01_013
+    2300028: pursesimple
+    3300000: coin01
+    3300002: coin01_001
+    3300004: coin01_002
+    3300006: coin01_003
+    3300008: coin01_004
+    3300010: coin01_005
+    3300012: coin01_006
+    3300014: coin01_007
+    3300016: coin01_008
+    3300018: coin01_009
+    3300020: coin01_010
+    3300022: coin01_011
+    3300024: coin01_012
+    3300026: coin01_013
+    3300028: pursesimple
+    4300000: coin01
+    4300002: pursesimple
+    4300004: coin01_001
+    4300006: coin01_002
+    4300008: coin01_003
+    4300010: coin01_004
+    4300012: coin01_005
+    4300014: coin01_006
+    4300016: coin01_007
+    4300018: coin01_008
+    4300020: coin01_009
+    4300022: coin01_010
+    4300024: coin01_011
+    4300026: coin01_012
+    4300028: coin01_013
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
